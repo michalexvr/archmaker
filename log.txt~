@@ -1,0 +1,202 @@
+2011-12-26 12:39:00: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 12:40:28: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 12:40:28: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 12:40:28: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 12:40:29: Problema con la conexion sin parametros:java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+2011-12-26 12:40:29: Los parametros son: reportSisT,root,transoceanica1q2w3e,jdbc:mysql://localhost/reportSisT
+2011-12-26 12:40:29: Exception en la conexion con mysql java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+2011-12-26 12:40:29: Problemas con los parametros(url,login,password): jdbc:mysql://localhost/reportSisT,root,transoceanica1q2w3e
+2011-12-26 12:40:29: Problemas con el seguimiento de los datos cargaControl,java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+2011-12-26 12:40:29: Listo
+2011-12-26 12:41:31: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 12:41:31: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 12:41:31: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 12:41:31: El archivo 2011-12-01.csv ya existe en el ftp
+2011-12-26 12:41:32: Problema con la conexion sin parametros:java.sql.SQLException: Access denied for user 'root'@'localhost' (using password: YES)
+2011-12-26 12:41:32: Los parametros son: reportSisT,root,transoceanica1q2w3e,jdbc:mysql://localhost/reportSisT
+2011-12-26 12:51:12: Cargando reportes desde: 2011-12-02 a FTP
+2011-12-26 12:51:12: Se comienza ha subir el archivo al FTP
+2011-12-26 12:51:12: Carga de Archivos OK
+2011-12-26 14:59:18: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 14:59:18: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 14:59:18: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 14:59:18: El archivo 2011-12-01.csv ya existe en el ftp
+2011-12-26 14:59:18: El archivo 2011-12-02.csv ya existe en el ftp
+2011-12-26 15:00:56: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 15:00:56: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 15:00:56: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 15:11:02: Cargando reportes desde: 2011-12-02 a FTP
+2011-12-26 15:11:02: Se comienza ha subir el archivo al FTP
+2011-12-26 15:11:02: Carga de Archivos OK
+2011-12-26 15:23:13: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 15:23:13: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 15:23:13: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 15:26:26: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 15:26:26: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 15:26:26: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 15:36:03: Cargando reportes desde: 2011-12-02 a FTP
+2011-12-26 15:36:03: Se comienza ha subir el archivo al FTP
+2011-12-26 15:36:03: Carga de Archivos OK
+2011-12-26 15:47:56: Cargando reportes desde: 2011-12-03 a FTP
+2011-12-26 15:47:56: Se comienza ha subir el archivo al FTP
+2011-12-26 15:47:56: Carga de Archivos OK
+2011-12-26 16:01:30: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 16:01:31: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 16:01:31: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 16:08:04: Cargando reportes desde: 2011-12-23 a FTP
+2011-12-26 16:08:05: Se comienza ha subir el archivo al FTP
+2011-12-26 16:08:05: Carga de Archivos OK
+2011-12-26 16:14:46: Cargando reportes desde: 2011-12-24 a FTP
+2011-12-26 16:14:46: Se comienza ha subir el archivo al FTP
+2011-12-26 16:14:46: Carga de Archivos OK
+2011-12-26 16:21:30: Cargando reportes desde: 2011-12-25 a FTP
+2011-12-26 16:21:30: Se comienza ha subir el archivo al FTP
+2011-12-26 16:21:30: Carga de Archivos OK
+2011-12-26 16:28:22: Cargando reportes desde: 2011-12-26 a FTP
+2011-12-26 16:28:22: Se comienza ha subir el archivo al FTP
+2011-12-26 16:28:22: Carga de Archivos OK
+2011-12-26 16:28:22: La conexion se cierra
+2011-12-26 16:28:22: Listo
+2011-12-26 17:11:36: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:11:36: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:11:36: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:11:36: La conexion se cierra
+2011-12-26 17:11:36: Listo
+2011-12-26 17:12:18: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:12:18: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:12:18: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:12:18: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+2011-12-26 17:12:18: Listo
+2011-12-26 17:13:05: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:13:05: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:13:05: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:13:05: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+2011-12-26 17:13:05: Listo
+2011-12-26 17:13:46: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:13:46: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:13:46: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:13:46: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+2011-12-26 17:13:46: Listo
+2011-12-26 17:14:24: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:14:24: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:14:24: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:14:24: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+2011-12-26 17:14:24: Listo
+2011-12-26 17:17:19: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:17:19: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:17:19: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:17:19: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+2011-12-26 17:17:19: Listo
+2011-12-26 17:18:00: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:18:00: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:18:00: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:18:00: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+2011-12-26 17:18:00: Listo
+2011-12-26 17:18:22: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:18:22: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:18:22: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:18:22: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+2011-12-26 17:18:22: Listo
+2011-12-26 17:20:32: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:20:32: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:20:32: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:20:32: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+2011-12-26 17:20:32: Listo
+2011-12-26 17:23:28: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:23:28: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:23:28: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:23:28: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 7
+2011-12-26 17:23:28: Listo
+2011-12-26 17:23:58: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:24:30: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:27:25: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:28:45: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:30:15: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:31:42: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:37:10: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:37:38: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:37:38: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:37:38: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:47:27: Cargando reportes desde: 2011-12-21 a FTP
+2011-12-26 17:47:27: Se comienza ha subir el archivo al FTP
+2011-12-26 17:47:27: Carga de Archivos OK
+2011-12-26 17:57:26: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 17:57:26: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 17:57:26: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 17:57:26: El archivo 2011-12-21.csv ya existe en el ftp
+2011-12-26 18:07:11: Cargando reportes desde: 2011-12-22 a FTP
+2011-12-26 18:07:11: Se comienza ha subir el archivo al FTP
+2011-12-26 18:07:11: Carga de Archivos OK
+2011-12-26 18:14:47: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:14:48: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:14:48: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:14:48: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:14:48: Listo
+2011-12-26 18:15:37: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:15:37: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:15:37: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:15:37: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:15:37: Listo
+2011-12-26 18:16:40: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:16:40: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:16:40: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:16:40: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:16:40: Listo
+2011-12-26 18:18:36: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:18:36: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:18:36: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:18:36: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:18:36: Listo
+2011-12-26 18:19:21: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:19:21: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:19:21: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:19:21: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:19:21: Listo
+2011-12-26 18:20:17: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:20:17: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:20:17: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:20:17: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:20:17: Listo
+2011-12-26 18:20:48: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:20:48: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:20:48: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:20:48: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:20:48: Listo
+2011-12-26 18:21:54: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:21:54: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:21:54: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:21:54: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:21:54: Listo
+2011-12-26 18:22:36: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:22:36: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:22:36: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:22:36: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:22:36: Listo
+2011-12-26 18:24:13: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:24:13: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:24:13: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:24:13: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:24:13: Listo
+2011-12-26 18:25:23: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:25:23: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:25:23: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:25:23: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:25:23: Listo
+2011-12-26 18:25:41: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:25:41: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:25:41: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:25:41: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:25:41: Listo
+2011-12-26 18:26:17: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:26:17: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:26:17: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:26:18: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:26:18: Listo
+2011-12-26 18:27:15: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:27:15: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:27:15: Pregunta al archivo local las fechas de la ultima captura de datos
+2011-12-26 18:27:15: Problemas con el seguimiento de los datos cargaControl,java.lang.StringIndexOutOfBoundsException: String index out of range: 4
+2011-12-26 18:27:15: Listo
+2011-12-26 18:27:53: procesGenerador_Pasa y se genera un nuevo mes_2011-12-26
+2011-12-26 18:27:53: Comienza el tratamiento de la carga de archivos al ftp 2011-12-26
+2011-12-26 18:27:53: Pregunta al archivo local las fechas de la ultima captura de datos
